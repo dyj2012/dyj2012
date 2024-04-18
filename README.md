@@ -1,16 +1,17 @@
-### Hi there 👋
+### 个人信息
 
-<!--
-**dyj2012/dyj2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 性别：男
+* 年龄：35
+* 电话：13522126908
+* 邮箱：dyj2012@163.com
+* 籍贯：河南安阳
 
-Here are some ideas to get you started:
+### 个人优势👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+拥有超过9年的专业工作经验，在当前公司担任关键角色，深入参与并完成公司多个大型项目从0到1的构建，包括低代码平台，Pass平台，业务系统等公司核心项目。独立设计并开发多个核心引擎或模块，包括流程引擎，规则引擎，预算引擎，主数据引擎，日志模块，国际化模块等，这些模块在系统中起到了关键作用。
+
+积极参与并完善公司研发流程建设，包括制定研发编码规范，DevOps平台构建，源码分支管理，制品管理规范等。显著提升了团队的开发效率和代码质量
+
+多次参加公司的领导力培训，以提升管理能力。带领团队完成多个具有挑战性项目。
+
+对工作充满热情，并致力于为公司带来长期的价值，这种承诺和热情使我能够在面对复杂问题时保持积极和创新
