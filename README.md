@@ -69,9 +69,9 @@
   财务数字化是企业实现全面数字化的最佳切入点，而财务共享是财务数字化的最佳突破口。通过组织柔性化、流程智能化、运营精益化以及平台化构建、组件化共享、AI技术创新应用、与管理会计融合，让企业从传统共享、最终迈向无人共享，打造完善、智能、前瞻的财务数智体系，推动企业财务数字化转型。该项目前端使用React、NodeJs、Antd，后端使用Java、Spring、Spring Cloud、MyBatis，同时兼容多种数据库（Mysql、Oracle、达梦等）的企业级产品。
 * 项目业绩
 
-  1. 项目上线成功，成功中标多个大型项目，其他项目150+。
-  2. 核心模块架构设计与开发：规则引擎，预算引擎，国际化架构，多租户架构，缓存架构，日志收集等
-  3. 系统优化：优化单据提交逻辑，预算扣减逻辑提升系统流程度2倍以上
+  1. 项目上线成功，成功中标多个大型项目，其他中小项目也有150+。
+  2. 核心模块架构设计与开发：规则引擎，预算引擎，国际化架构，多租户架构，缓存架构，日志收集等。
+  3. 系统优化：优化单据提交逻辑，预算扣减逻辑提升系统流程度2倍以上。
   4. 技术支持：负责公司客户的技术支持工作，包括问题系统宕机，请求缓慢，偶发问题排查、并发死锁等问题排查或解决方案，提升客户满意度。
 
 
@@ -85,9 +85,9 @@
 
 # 专业技能
 
-1. 精通Java，JVM，多线程，I/O，设计模式，数据结构和算法等
-2. 精通Spring，Springboot，SpringCloud，Mybatis，MQ等框架
-3. 精通Oracle，Mysql，达梦，Redis，Mongo等数据库
-4. 精通linux，jenkins，docker，harbor，k8s，nginx，pipeline等DevOps流程
-5. 精通Git，Idea，vsCode，Jprofiler，mat，arthas等开发工具
-6. 熟悉hadoop，spark，hive，scala，python3等大数据相关软件
+1. 精通Java，JVM，多线程，I/O，设计模式，数据结构和算法等。
+2. 精通Spring，Springboot，SpringCloud，Mybatis，MQ等框架。
+3. 精通Oracle，Mysql，达梦，Redis，Mongo等数据库。
+4. 精通linux，jenkins，docker，harbor，k8s，nginx，pipeline等DevOps流程。
+5. 精通Git，Idea，vsCode，Jprofiler，mat，arthas等开发工具。
+6. 熟悉hadoop，spark，hive，scala，python3等大数据相关软件。
