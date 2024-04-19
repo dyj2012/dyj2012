@@ -80,7 +80,7 @@
 
 1. 精通Java，JVM，多线程，I/O，设计模式，数据结构和算法等。
 2. 精通Spring，Springboot，SpringCloud，Mybatis，MQ等框架。
-3. 精通Oracle，Mysql，达梦，Redis，Mongo等数据库。
-4. 精通linux，jenkins，docker，harbor，k8s，nginx，pipeline等DevOps流程。
-5. 精通Git，Idea，vsCode，Jprofiler，mat，arthas等开发工具。
+3. 精通Oracle，Mysql，熟练：达梦，Redis，Mongo等数据库。
+4. 熟练linux，jenkins，docker，harbor，k8s，nginx，pipeline等DevOps流程。
+5. 熟练Git，Idea，vsCode，Jprofiler，mat，arthas等开发工具。
 6. 熟悉hadoop，spark，hive，scala，python3等大数据相关软件。
