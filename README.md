@@ -74,7 +74,6 @@
 - 学历：本科
 - 时间段：2008 -- 2012
 - 专业: 计算机科学与技术
-- 在校经历: 获得优秀学生
 
 # 专业技能
 
@@ -84,3 +83,4 @@
 4. 熟练linux，jenkins，docker，harbor，k8s，nginx，pipeline等DevOps流程。
 5. 熟练Git，Idea，vsCode，Jprofiler，mat，arthas等开发工具。
 6. 熟悉hadoop，spark，hive，scala，python3等大数据相关软件。
+7. 读过spring，mybatis3源码，熟悉其核心原理。
