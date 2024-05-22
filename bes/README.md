@@ -140,3 +140,11 @@ http {
     }
 }
 ```
+
+
+### war
+
+```
+cacheMaxSize 1024000 
+cachingAllowed true
+```
